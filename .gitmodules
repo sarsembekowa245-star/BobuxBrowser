@@ -1,6 +1,0 @@
-[submodule "exiting_game"]
-	path = exiting_game
-	url = https://github.com/Pavelord/exiting_game.git
-[submodule "game"]
-	path = game
-	url = https://github.com/Pavelord/game.git
